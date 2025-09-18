@@ -1,6 +1,7 @@
+version.json
 
 
 {
-  "latest": "v0.1.6",
-  "bin": "sketch_sep18a.inoA1.bin"
+  "latest": "v0.0.2",
+  "bin": "sketch_sep18baa.bin"
 }
